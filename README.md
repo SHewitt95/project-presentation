@@ -39,7 +39,7 @@ To show an understanding of designing for different media, your project should a
 
 - Include a style sheet which makes your résumé appear as if it were created exclusively for print
   - Use a serif (over sans-serif typeface)
-  - Use print units (such as ponts, inches, centimeters, millimeters, etc.)
+  - Use print units (such as points, inches, centimeters, millimeters, etc.)
   - Eliminate unnecessary interactive elements
 
 
